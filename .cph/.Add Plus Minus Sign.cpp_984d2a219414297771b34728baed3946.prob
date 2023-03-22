@@ -1,0 +1,1 @@
+{"name":"Local: Add Plus Minus Sign","url":"c:\\Users\\Praveenkumar S\\Desktop\\DSA\\Add Plus Minus Sign.cpp","tests":[{"id":1679289741908,"input":"2\n11\n5\n01101\n5\n10001","output":"-\n+-++\n+++-"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Praveenkumar S\\Desktop\\DSA\\Add Plus Minus Sign.cpp","group":"local","local":true}
